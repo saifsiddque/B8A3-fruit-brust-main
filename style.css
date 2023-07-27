@@ -1,0 +1,41 @@
+.cover{
+    height: 100%;
+    width: 50%;
+    position: absolute;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 10%;
+    color: white;
+    font-size: 12px;
+    font-weight: 900;
+}
+.cards{
+    display: flex;
+    gap: 20px;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    font-size: 12px;
+}
+.cards .card img{
+    height: 100px;
+}
+.meet_the{
+    background-image: url('./images/banner1.png');
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    
+}
+.team{
+    display: flex;
+    gap: 20px;
+    background-color: rgba(0, 0, 0, 0.406);
+}
+.team h2{
+    font-size: 15px;
+    font-weight: 700;
+}

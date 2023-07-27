@@ -39,3 +39,11 @@ p{
     font-size: 15px;
     font-weight: 700;
 }
+.navbar-end{
+    position: relative;
+}
+i{
+    font-size: 25px;
+    position: absolute;
+    right:  10px;
+}
